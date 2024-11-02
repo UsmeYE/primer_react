@@ -6,8 +6,8 @@ import Contador from './components/contador'
 const App = () => {
   return (
     <Contenedor>
-      <Saludo nombre="Yamid" idioma="sueco"/>
-      <Contador/>
+      <Saludo nombre="Yamid" idioma="sueco" />
+      <Contador />
     </Contenedor>
   )
 }

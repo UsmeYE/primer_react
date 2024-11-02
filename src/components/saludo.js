@@ -1,5 +1,5 @@
 const Saludo = ({ nombre, idioma }) => {
-
+ 
     const saludos = {
         español: `¡Hola, ${nombre}!`,
         ingles: `Hello, ${nombre}!`,
